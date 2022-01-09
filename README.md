@@ -1,4 +1,4 @@
 # security-checklist
 
-- [] API Checklist
-- [] Session Checklist 
+- [ ] API Checklist
+- [ ] Session Checklist 
